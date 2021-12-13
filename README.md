@@ -22,7 +22,7 @@ THEN the password is either displayed in an alert or written to the page"
 ![passwordgenmockup](https://user-images.githubusercontent.com/29647525/145741594-f5e30503-ea92-4824-ba7d-f541ec758db1.png)
 
 # Sample Sight
-The sample sight for JS-Password-gen is 
+The sample sight for JS-Password-gen is https://Savannahpolcen.github.io/JS-password-gen/
 
 # Repository Location
 The name of the password generator GitHub repository is JS-Password-Gen. The repository is located at 
